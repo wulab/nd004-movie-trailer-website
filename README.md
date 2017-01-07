@@ -36,6 +36,9 @@ If not, please go to the above folder and open `fresh_tomatoes.html` manually.
 
 PRs not accepted.
 
+[Adarsh Nair](https://github.com/adarsh0806) wrote `fresh_tomatoes.py` that is
+used in the project.
+
 ## License
 
 [MIT © Weera Wu.](LICENSE)
