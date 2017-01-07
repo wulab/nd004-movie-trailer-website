@@ -33,7 +33,7 @@ ratatouille = media.Movie(
 midnight_in_paris = media.Movie(
     'Midnight in Paris',
     'Going back in time to meet authors',
-    'https://upload.wikimedia.org/wikipedia/en/9/9f/Midnight_in_Paris_Poster.jpg',
+    'https://upload.wikimedia.org/wikipedia/en/9/9f/Midnight_in_Paris_Poster.jpg', # NOQA
     'https://youtu.be/FAfR8omt-CY'
 )
 
