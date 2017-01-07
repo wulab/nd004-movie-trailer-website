@@ -1,3 +1,13 @@
+"""entertainment_center.py
+
+To generate Movie Trailer Website, run:
+
+    $ python entertainment_center.py
+
+You'll see the Movie Trailer Website automatically opened in your browser.
+If not, please open `fresh_tomatoes.html` manually.
+"""
+
 import media
 import fresh_tomatoes
 
